@@ -5,5 +5,6 @@ local Data = {
   { key = "AtlasDev_P436NF", hwid = "1de62d29-d20a-4438-9d49-4d8b19de2b95", date = "2024-14-10 14:51" }, -- 1201757307743244325 26-10
   { key = "AtlasDev_P436QF", hwid = "1F29C5D7-AB5C-4DA5-8DC1-88F3093DF2AA", date = "2024-14-10 14:51" },  -- 1201757307743244325 26-10
   { key = "AtlasDev_57JSKR", hwid = "DBABB700-5A4D-41CF-A13C-D211DC791283", date = "2024-14-10 14:51" },  -- 1114529949806759977 24/10
+  { key = "AtlasDev_84JKMA", hwid = "6a7f3779-292a-4a8c-ba7f-422851f82894", date = "2024-14-10 14:51" },  -- 883700856434880545 24/10
   }
 return Data
