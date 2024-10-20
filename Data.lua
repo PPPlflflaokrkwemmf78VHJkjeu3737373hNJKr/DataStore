@@ -8,7 +8,7 @@ local Data = {
   { key = "AtlasDev_57JSKR", hwid = "DBABB700-5A4D-41CF-A13C-D211DC791283", date = "2024-14-10 14:51" },  -- 1114529949806759977 24/10
   { key = "AtlasDev_84JKMA", hwid = "6a7f3779-292a-4a8c-ba7f-422851f82894", date = "2024-14-10 14:51" },  -- 883700856434880545 24/10
   { key = "AtlasDev_PLDW42", hwid = "907f8b49-c956-4d2b-97ac-4bb8ab016ee2", date = "2024-14-10 14:51" },  -- 1145750831174537276 24/10
-  { key = "AtlasDev_PLDW42", hwid = "EEEE", date = "2024-14-10 14:51" },  -- 1145750831174537276 24/10 (amigo do cara de cima)
+  { key = "AtlasDev_84JS42", hwid = "C0E71E7C-EBFB-4E82-9E0A-8FD97B87F625", date = "2024-14-10 14:51" },  -- 1214585350425411616 27/10
   { key = "AtlasDev_o39g7D", hwid = "32f0a4bb-81cc-404c-a1c6-0b6d4bcb3a9c", date = "2024-14-10 14:51" },  -- 1248618917472239719 24/10
   { key = "AtlasDev_43mfsD", hwid = "a36b0e6a-21c8-4df9-9075-9992a363fc24", date = "2024-14-10 14:51" },  -- 1136246659236495420 24/10
   { key = "AtlasDev_MFN12F", hwid = "78daa372-4c82-4f21-8e25-d34a192c234f", date = "2024-14-10 14:51" },  -- 1273715597326291004 24/10
