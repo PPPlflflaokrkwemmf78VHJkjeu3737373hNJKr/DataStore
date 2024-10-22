@@ -20,5 +20,6 @@ local Data = {
   { key = "AtlasDev_4jnOP4", hwid = "D060E54B-BCF5-4693-9B7D-C51D5A5D9C1E", date = "2024-14-10 14:51" },  -- 1204534030192877601 26/10
   { key = "AtlasDev_ou54kD", hwid = "9BFDF604-53FD-4E0E-B834-43199D2F7EBE", date = "2024-14-10 14:51" },  -- 1117544625205415936 26/10
   { key = "AtlasDev_43GBD1", hwid = "2BDD44C9-845D-4ED3-B349-F0AD9F30C372", date = "2024-14-10 14:51" },  -- 1048997633886277724 27/10
+  { key = "AtlasDev_B4NSJQ", hwid = "8d0fa7e8-e638-4897-9f0a-f076b902e5de", date = "2024-14-10 14:51" },  -- 838422662895108126 29/10
   }
 return Data
